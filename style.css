@@ -1,0 +1,16 @@
+body {
+  font-family: arial;
+}
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #e2edff;
+}
+#projects {
+  background-color: #e2edff;
+}
+footer a {
+  text-decoration: none;
+}
+section {
+  padding-top: 6rem;
+}
